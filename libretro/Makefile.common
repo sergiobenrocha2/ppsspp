@@ -452,6 +452,7 @@ SOURCES_CXX += $(NATIVEDIR)/math/dataconv.cpp \
 	       $(COREDIR)/MemMap.cpp \
 	       $(COREDIR)/MemMapFunctions.cpp \
 	       $(COREDIR)/PSPLoaders.cpp \
+	       $(COREDIR)/Replay.cpp \
 	       $(COREDIR)/Reporting.cpp \
 	       $(COREDIR)/SaveState.cpp \
 	       $(COREDIR)/Screenshot.cpp \
